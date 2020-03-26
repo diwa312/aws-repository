@@ -1,2 +1,4 @@
-this is used to ignore the files 
+.classpath
+.projects
+./node_modules
 
