@@ -1,2 +1,6 @@
-this is devops class and i am practicing
+red 
+blue 
+green
+orange
+black
 
